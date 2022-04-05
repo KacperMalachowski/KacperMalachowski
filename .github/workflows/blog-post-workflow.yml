@@ -10,7 +10,7 @@ on:
     types:
       - webhook
       
- jobs:
+jobs:
   update-readme-with-blog:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
