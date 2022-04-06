@@ -60,7 +60,4 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Multiple Platforms Together](https://kacpermalachowski.pl/blog/connecting-multiple-platforms)
-- [Technical SEO with GraphCMS](https://kacpermalachowski.pl/blog/technical-seo-with-graphcms)
-- [Union Types and Sortable Relations with GraphCMS](https://kacpermalachowski.pl/blog/union-types-and-sortable-relations)
 <!-- BLOG-POST-LIST:END -->
