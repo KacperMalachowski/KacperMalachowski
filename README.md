@@ -63,5 +63,5 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Why you need math as Software Developer?](https://kacpermalachowski.pl/blog/why-you-need-math-as-software-developer)
+- [Coming soon](https://blog.kacpermalachowski.pl/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
