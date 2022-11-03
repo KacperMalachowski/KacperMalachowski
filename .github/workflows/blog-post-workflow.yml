@@ -1,9 +1,7 @@
 name: Get blog posts from graphcms
 on:
   push:
-    branches: [ source ]
-  pull_request:
-    branches: [ source ]
+    branches: [ master ]
   workflow_dispatch:
   
   repository_dispatch:
