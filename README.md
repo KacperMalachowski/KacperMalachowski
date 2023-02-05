@@ -63,6 +63,5 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [You have good salary, but are you really happy?](https://kacpermalachowski.pl/blog/you-have-good-job-but-are-you-happy)
-- [Why you need math as Software Developer?](https://kacpermalachowski.pl/blog/why-you-need-math-as-software-developer)
+- [JavaScript: Map Function](https://kacpermalachowski.pl/map-function/)
 <!-- BLOG-POST-LIST:END -->
