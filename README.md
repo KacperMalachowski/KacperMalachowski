@@ -60,5 +60,6 @@ I am a Cloud DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [How My Coding Obsession Hindered My Personal Life](https://kacpermalachowski.pl/you-shouldnt/)
 - [JavaScript: Map Function](https://kacpermalachowski.pl/map-function/)
 <!-- BLOG-POST-LIST:END -->
