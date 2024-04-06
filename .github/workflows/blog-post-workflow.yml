@@ -17,5 +17,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://kacpermalachowski.pl/rss/"
+          feed_list: "https://kacpermalachowski.pl/index.xml"
     
