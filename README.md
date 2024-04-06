@@ -59,4 +59,5 @@ I am a Cloud DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Can you connect work and study?](https://kacpermalachowski.pl/blogs/connecting-study-and-work/)
 <!-- BLOG-POST-LIST:END -->
