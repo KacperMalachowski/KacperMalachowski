@@ -59,5 +59,6 @@ I am a Cloud DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Studies and Studies, Then Work](http://kacpermalachowski.pl/en/2025/06/studies-and-studies-then-work/)
+- [Vibe Coding, So Why Not?](https://kacpermalachowski.pl/en/posts/vibe-coding-so-why-not/)
+- [Studies and Studies, Then Work](https://kacpermalachowski.pl/en/posts/studies-and-studies-then-work/)
 <!-- BLOG-POST-LIST:END -->
